@@ -1,1 +1,1 @@
-# R : Journey to R begins today.
+# R : Complete guide to R programming using Machine Learning with R tutorial!
